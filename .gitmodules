@@ -1,3 +1,12 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-latex-live-preview"]
+	path = bundle/vim-latex-live-preview
+	url = git@github.com:xuhdev/vim-latex-live-preview.git
+[submodule "autoload/vim-plug"]
+	path = autoload/vim-plug
+	url = git@github.com:junegunn/vim-plug.git
+[submodule "autoload/plug.vim"]
+	path = autoload/plug.vim
+	url = git@github.com:junegunn/vim-plug.git
