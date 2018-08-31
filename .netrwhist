@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/chiq/.vim/.git'
+let g:netrw_dirhist_2='/home/chiq/.vim/.git/objects'
+let g:netrw_dirhist_3='/home/chiq/.vim/.git'
